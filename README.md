@@ -25,4 +25,7 @@ AR View를 render할 때 두가지 이상의 파일을 한번에 render하려고
 
 
 ### AR 아키텍처
+1. 서버로부터 AR Model File을 전달 받음
+2. React Native 내부에서 Android는 ARCore, IOS는 ARkit으로 AR Model을 가공
+3. 유저가 Mobile Device로 확인
 <img width="1655" alt="스크린샷 2023-09-22 오후 12 02 09" src="https://github.com/MAZE-Inc/MAZE-AR/assets/113877093/95a859db-1d89-41d6-aabb-853104f0aee5">
