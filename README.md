@@ -25,4 +25,4 @@ AR View를 render할 때 두가지 이상의 파일을 한번에 render하려고
 
 
 ### AR 아키텍처
-<img width="1655" alt="스크린샷 2023-09-22 오후 12 02 09" src="https://github.com/MAZE-Inc/MAZE-AR/assets/113877093/42bbf529-500d-4692-a28f-bb0acb157bb9">
+<img width="1655" alt="스크린샷 2023-09-22 오후 12 02 09" src="https://github.com/MAZE-Inc/MAZE-AR/assets/113877093/95a859db-1d89-41d6-aabb-853104f0aee5">
